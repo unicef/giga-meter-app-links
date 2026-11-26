@@ -5,7 +5,7 @@ are **not signed**, and are x64 only. Do not install them on a school's PC.
 
 | Installer | Built from | Updates |
 |---|---|---|
-| [Giga-Meter-Setup-2.0.4-staging.exe](https://github.com/unicef/giga-meter-app-links/raw/main/testing-app/Giga-Meter-Setup-2.0.4-staging.exe) | `release-candidate/2.0.4` at f98ee68 | Off (staging builds have the updater switched off) |
+| [Giga-Meter-Setup-2.0.4-staging.exe](https://github.com/unicef/giga-meter-app-links/raw/main/testing-app/Giga-Meter-Setup-2.0.4-staging.exe) | `release-candidate/2.0.4` at 513db13 (with the ping fix, #138) | Off (staging builds have the updater switched off) |
 | [Giga-Meter-Setup-2.0.3-staging.exe](https://github.com/unicef/giga-meter-app-links/raw/main/testing-app/Giga-Meter-Setup-2.0.3-staging.exe) | tag `v2.0.3` | Never finds an update (its feed points at a local test server) |
 
 ## How to test
@@ -26,6 +26,6 @@ registration on that PC.
 ## Checksums (SHA-256)
 
 ```
-2014a33b717672955f5f2712ac5e8cb33e928aa947874fdcbd3987e70a9bfee6  Giga-Meter-Setup-2.0.4-staging.exe
+a3615e2c2404548177b5600124f497ba678de015b260c60706d0b2011a2f4754  Giga-Meter-Setup-2.0.4-staging.exe
 a3df91bd424a87b589505c7011e081c6523d625ae471f14790df3e17748e7720  Giga-Meter-Setup-2.0.3-staging.exe
 ```
